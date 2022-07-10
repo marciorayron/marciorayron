@@ -1,14 +1,10 @@
-### Olá! Eu sou o Márcio Ribeiro👋
+### Oi! Bem vindo ao meu Github, meu nome é Márcio Ribeiro👋
+
+-- Algumas curiosidades sobre mim: 
 
 - 🔭 Atualmente trabalho no setor automotivo e estou tentando uma transição de carreira para tecnologia, começando no front-end
 - 🌱 Estou aprendendo java Script + html e css
 - 😄 ele/dele
-
-<div align="center">
-  <a href="https://github.com/marciorayron">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciorayron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciorayron&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
 
@@ -16,8 +12,13 @@
   <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="right" alt="Marcio-pic" height="150" style="border-radius:50px;" src="">-->
 </div>
-  
-  ##
+
+<div align="center">
+  <a href="https://github.com/marciorayron">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciorayron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciorayron&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ ##
  
 <div> 
   <a href="https://www.instagram.com/eifelps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
